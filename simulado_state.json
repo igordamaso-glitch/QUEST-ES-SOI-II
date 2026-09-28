@@ -1,0 +1,101 @@
+{
+  "disciplina": "SOI I",
+  "descricao": "Sistemas Orgânicos Integrados I - Sistema Nervoso, Sentidos e Sistema Locomotor",
+  "total_questoes_banco": 180,
+  "modulos_cobertos": [
+    "S2P1",
+    "S2P2",
+    "S3P1",
+    "S3P2",
+    "S4P1",
+    "S4P2",
+    "S5P1",
+    "S5P2",
+    "S6P1",
+    "S6P2",
+    "S7P1",
+    "S7P2",
+    "S8P1",
+    "S8P2",
+    "S9P1",
+    "S9P2",
+    "S10P1",
+    "S10P2"
+  ],
+  "mapa_cobertura": {
+    "S2P1": {
+      "nome": "SNC/SNP, Bioeletrogênese, Sinapses, Glia e Equação de Goldman",
+      "questoes": 10
+    },
+    "S2P2": {
+      "nome": "Meninges, Ventrículos, LCR, HPN e Embriologia do TN/Chiari",
+      "questoes": 10
+    },
+    "S3P1": {
+      "nome": "Coluna, Arcos Reflexos (Miotático Inverso), Horner e SNA Sacral",
+      "questoes": 10
+    },
+    "S3P2": {
+      "nome": "Vias Somatossensoriais, Dor, Brown-Séquard, Melzack-Wall e Wallenberg",
+      "questoes": 10
+    },
+    "S4P1": {
+      "nome": "Telencéfalo, Brodmann, Heminegligência, Prosopagnosia e Tálamo (NRT)",
+      "questoes": 10
+    },
+    "S4P2": {
+      "nome": "Controle Motor, Núcleos da Base, Decerebração, Huntington e Cerebelo",
+      "questoes": 10
+    },
+    "S5P1": {
+      "nome": "SNA Funcional, Hipotálamo (Fome/Circadiano), Límbico e Micção",
+      "questoes": 10
+    },
+    "S5P2": {
+      "nome": "Tronco Encefálico, Reflexo Corneano, Neuralgia V, Barorreceptor e Weber",
+      "questoes": 10
+    },
+    "S6P1": {
+      "nome": "Audição (Rinne/Weber), Estria Vascular, RVO, Arcos Faríngeos e Olfato",
+      "questoes": 10
+    },
+    "S6P2": {
+      "nome": "Visão (Células ON/OFF), Córtex V1, Acomodação e Embriologia Ocular",
+      "questoes": 10
+    },
+    "S7P1": {
+      "nome": "Músculo Esquelético, Lambert-Eaton, Ação Excêntrica, Tétano e Fosfagênio",
+      "questoes": 10
+    },
+    "S7P2": {
+      "nome": "Tecido Ósseo, Vitamina D/Raquitismo, Ósteon, Intramembranosa e FGF23",
+      "questoes": 10
+    },
+    "S8P1": {
+      "nome": "Pelve Obstétrica (Conjugado), Ligamentos, Coxa Vara/Valga, Pudendo e IFA",
+      "questoes": 10
+    },
+    "S8P2": {
+      "nome": "Marcha (Contato Inicial), McMurray, Síndrome Compartimental e O'Donoghue",
+      "questoes": 10
+    },
+    "S9P1": {
+      "nome": "Ombro (Ritmo 2:1), Paralisias de Erb/Klumpke, Agrecano e Bankart",
+      "questoes": 10
+    },
+    "S9P2": {
+      "nome": "Pronador vs Túnel do Carpo, Mão de Bênção vs Garra, Allen, De Quervain e Simpatectomia",
+      "questoes": 10
+    },
+    "S10P1": {
+      "nome": "Eixo Hipotálamo-Hipofisário: Embriologia, Histologia, Hormônios e Feedback",
+      "questoes": 10
+    },
+    "S10P2": {
+      "nome": "Eixo Hipotálamo-Hipófise-GH e Fisiologia do Crescimento Humano",
+      "questoes": 10
+    }
+  },
+  "versao": "2.0_prompt_mestre",
+  "alternativas_por_questao": 5
+}
